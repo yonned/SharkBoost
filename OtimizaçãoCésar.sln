@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtimizaçãoCésar", "OtimizaçãoCésar.csproj", "{CDD3A8B1-AA79-43D4-AA2E-2499AF2B5CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD3A8B1-AA79-43D4-AA2E-2499AF2B5CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD3A8B1-AA79-43D4-AA2E-2499AF2B5CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD3A8B1-AA79-43D4-AA2E-2499AF2B5CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD3A8B1-AA79-43D4-AA2E-2499AF2B5CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622E60A1-06A0-4725-A2B6-8D0069BF21A7}
+	EndGlobalSection
+EndGlobal
